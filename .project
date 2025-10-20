@@ -3,6 +3,8 @@
 	<name>28 - tratamento de exceções</name>
 	<comment></comment>
 	<projects>
+		<project>01-Vetor</project>
+		<project>02-Vetor(ComClasses)</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
